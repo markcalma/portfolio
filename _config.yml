@@ -3,5 +3,3 @@ logo: assets/Untitled design (16).png
 description: Data Analyst
 #show_downloads: false
 theme: jekyll-theme-minimal
-include:
-  assets/css/style.css
